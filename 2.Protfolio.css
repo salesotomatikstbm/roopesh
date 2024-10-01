@@ -1,0 +1,35 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    padding: 0;
+}
+
+/* Write Your code below */
+
+section{
+    color:blueviolet;
+    background-color:darkslategray;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    margin: 20px;
+    border: 1px solid lawngreen ;
+    border-radius: 30px;
+}
+h3{
+    color:  palevioletred
+}
+li{
+    color:skyblue
+}
+p{
+color: orchid
+}
+img{
+    border-radius: 40px;
+}
+.head{
+    text-align: center;
+    color: lightsalmon;
+}
